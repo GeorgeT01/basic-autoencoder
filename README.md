@@ -1,6 +1,6 @@
 # basic-autoencoder
 
-```
+```java
 
 package org.deeplearning4j.nn.conf.layers;
 
